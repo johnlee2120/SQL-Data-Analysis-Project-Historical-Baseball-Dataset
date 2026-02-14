@@ -83,3 +83,13 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 |TOR   |2008  |1.05                   |
 
 
+
+## Repository Structure
+
+```text
+Data-Science-Project---Customer-Behavioral-Analysis/
+│
+├── Dataset Files/             # Datasets used in the project
+├── Project Code/              # The project's SQL Code
+└── README.md                  # Project documentation
+```
