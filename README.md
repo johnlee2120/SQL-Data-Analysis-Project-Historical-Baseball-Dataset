@@ -24,6 +24,7 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 
 
 
+
 |decade|avg_height|avg_weight|diff_in_HEIGHT|diff_in_WEIGHT|
 |------|----------|----------|--------------|--------------|
 |1870  |68.8415   |163.1394  |NULL          |NULL          |
@@ -44,7 +45,8 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 
   
 
-"Identified the first season each franchise surpassed $1 billion in cumulative payroll"   
+"Identified the first season each franchise surpassed $1 billion in cumulative payroll"  
+
 
 
 |teamID|yearID|cumulative_sum_billions|
