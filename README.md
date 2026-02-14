@@ -20,7 +20,8 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 
 **Key Results**
 
-- "Examined decade over decade changes in player physical attributes"
+"Examined decade over decade changes in player physical attributes"  
+
 
 
 |decade|avg_height|avg_weight|diff_in_HEIGHT|diff_in_WEIGHT|
@@ -41,8 +42,10 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 |2000  |73.6789   |205.8854  |0.1893        |11.9966       |
 |2010  |73.6043   |207.3201  |-0.0746       |1.4347        |
 
+  
 
-"Identified the first season each franchise surpassed $1 billion in cumulative payroll" 
+"Identified the first season each franchise surpassed $1 billion in cumulative payroll"   
+
 
 |teamID|yearID|cumulative_sum_billions|
 |------|------|-----------------------|
