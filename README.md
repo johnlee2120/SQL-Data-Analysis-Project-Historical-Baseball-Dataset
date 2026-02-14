@@ -1,4 +1,7 @@
+# Summary:
 ## This project analyzes historical MLB data using advanced SQL techniques to uncover long term trends in player careers, team spending behavior, and franchise level performance patterns across decades
+
+
 
 # Analysis Highlights:
 ## - Examined decade over decade changes in player physical attributes and batting distributions
@@ -7,8 +10,9 @@
 ## - Ranked top performing schools and franchises using window functions
 
 
+
 # Techniques & Concepts:
-##- Complex joins across relational tables
+## - Complex joins across relational tables
 ## - CTEs for multi step transformations
 ## - Window functions (ROW_NUMBER, NTILE, LAG)
 ## - Aggregations and percentile segmentation
