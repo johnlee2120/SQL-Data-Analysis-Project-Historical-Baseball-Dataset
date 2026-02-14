@@ -18,7 +18,10 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 - Aggregations and percentile segmentation  
 - Trend and milestone analysis  
 
-## Screenshots
+**Key Results**
+
+- "Examined decade over decade changes in player physical attributes"
+
 
 |decade|avg_height|avg_weight|diff_in_HEIGHT|diff_in_WEIGHT|
 |------|----------|----------|--------------|--------------|
@@ -37,4 +40,37 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 |1990  |73.4896   |193.8888  |0.1460        |6.1865        |
 |2000  |73.6789   |205.8854  |0.1893        |11.9966       |
 |2010  |73.6043   |207.3201  |-0.0746       |1.4347        |
+
+
+"Identified the first season each franchise surpassed $1 billion in cumulative payroll" 
+
+|teamID|yearID|cumulative_sum_billions|
+|------|------|-----------------------|
+|ARI   |2012  |1.02                   |
+|ATL   |2005  |1.07                   |
+|BAL   |2007  |1.06                   |
+|BOS   |2004  |1.00                   |
+|CHA   |2008  |1.07                   |
+|CHN   |2007  |1.08                   |
+|CIN   |2010  |1.06                   |
+|CLE   |2009  |1.06                   |
+|COL   |2011  |1.05                   |
+|DET   |2009  |1.11                   |
+|HOU   |2008  |1.03                   |
+|KCA   |2012  |1.02                   |
+|LAA   |2013  |1.06                   |
+|LAN   |2005  |1.08                   |
+|MIL   |2014  |1.05                   |
+|MIN   |2011  |1.02                   |
+|NYA   |2003  |1.06                   |
+|NYN   |2005  |1.04                   |
+|OAK   |2012  |1.05                   |
+|PHI   |2008  |1.03                   |
+|SDN   |2012  |1.04                   |
+|SEA   |2007  |1.04                   |
+|SFN   |2007  |1.04                   |
+|SLN   |2007  |1.07                   |
+|TEX   |2007  |1.04                   |
+|TOR   |2008  |1.05                   |
+
 
