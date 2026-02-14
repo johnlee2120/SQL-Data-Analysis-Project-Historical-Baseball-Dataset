@@ -18,7 +18,7 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 - Aggregations and percentile segmentation  
 - Trend and milestone analysis  
 
-**Key Results**
+**Key Results:**
 
 "Examined decade over decade changes in player physical attributes"  
 
