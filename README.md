@@ -87,7 +87,7 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 ## Repository Structure
 
 ```text
-Data-Science-Project---Customer-Behavioral-Analysis/
+SQL-Data-Analysis-Project-Historical-Baseball-Dataset/
 │
 ├── Dataset Files/             # Datasets used in the project
 ├── Project Code/              # The project's SQL Code
