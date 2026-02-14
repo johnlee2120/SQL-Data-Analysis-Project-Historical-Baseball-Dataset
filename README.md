@@ -1,4 +1,4 @@
-**Summary:**  
+**Project Summary:**  
 This project analyzes historical MLB data using advanced SQL techniques to uncover long term trends in player careers, team spending behavior, and franchise level performance patterns across decades
 
 
