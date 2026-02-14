@@ -1,14 +1,18 @@
-# This project uses SQL to analyze historical baseball data, focusing on player careers, team spending, and long term trends across decades
+# This project analyzes historical MLB data using advanced SQL techniques to uncover long term trends in player careers, team spending behavior, and franchise level performance patterns across decades
 
-## Key questions:
-# - How did player attributes and batting preferences change over time?
-# - What was the first year that each team's cumulative spending surpassed 1 billion
-# - How long did players typically stay with one team?
+## Analysis Highlights:
+# - Examined decade over decade changes in player physical attributes and batting distributions
+# - Identified the first season each franchise surpassed $1 billion in cumulative payroll
+# - Measured career longevity and team retention patterns
+# - Ranked top performing schools and franchises using window functions
 
-## Tools & Techniques
-# - SQL (CTEs, window functions, joins)
-# - Aggregations and conditional logic
-# - Trend and ranking analysis
+
+## Techniques & Concepts:
+# - Complex joins across relational tables
+# - CTEs for multi step transformations
+# - Window functions (ROW_NUMBER, NTILE, LAG)
+# - Aggregations and percentile segmentation
+# - Trend and milestone analysis
 
 ## Screenshots
 
