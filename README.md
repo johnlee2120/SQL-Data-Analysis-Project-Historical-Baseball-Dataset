@@ -19,6 +19,22 @@ The New York Yankees have the highest spending by a considerable margin, with ea
 
 ---
 
+**Actionable Business Insights**
+
+- Focus scouting resources on proven talent producing regions
+
+California, Texas, and Florida produce substantially more MLB players than most states
+
+- Strengthen recruiting relationships with high performing universities
+
+Universities with proven MLB pipelines may provide a more reliable source of professional talent
+
+- Franchises operating with smaller payrolls may need to rely on other things
+
+They may need to rely more heavily on player development, scouting efficiency, and analytical decision making to remain competitive against historically high payroll teams
+
+---
+
 **Power BI Dashboard:**
 
 **Dashboard Preview**
