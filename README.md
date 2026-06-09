@@ -9,27 +9,29 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 - Examined decade over decade changes in player physical attributes and batting distributions  
 - Identified the first season each franchise surpassed $1 billion in cumulative payroll  
 - Measured career longevity and team retention patterns  
-- Ranked top performing schools and franchises using window functions  
+- Ranked top performing schools and franchises using window functions
 
-**Power BI Dashboard**
+---
 
-Dashboard Preview
+**Power BI Dashboard:**
 
-(insert screenshot of your Power BI dashboard)
+**Dashboard Preview**
 
-Key Dashboard Metrics
+(insert screenshot of Power BI dashboard)
 
-* 19,000 MLB players analyzed
-* 1,000 participating universities
-* 49 represented states
-* Interactive filtering by university state
+**Key Dashboard Metrics**
 
-Dashboard Insights
+- 19,000 MLB players analyzed
+- 1,000 participating universities
+- 49 represented states
+- Interactive filtering by university state
 
-* Top MLB talent-producing states
-* Top MLB talent-producing universities
-* Highest historical payroll franchises
-* Dynamic filtering by university location
+**Dashboard Insights**
+
+- Top MLB talent producing states
+- Top MLB talent producing universities
+- Highest historical payroll franchises
+- Dynamic filtering by university location
 
 ---
 
