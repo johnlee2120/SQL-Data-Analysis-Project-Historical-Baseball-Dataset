@@ -19,7 +19,7 @@ The New York Yankees have the highest spending by a considerable margin, with ea
 
 ---
 
-**Actionable Business Insights**
+**Actionable Business Insights:**
 
 - **Focus scouting resources on proven talent producing regions**
 
