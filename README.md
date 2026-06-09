@@ -38,7 +38,7 @@ They may need to rely more heavily on player development, scouting efficiency, a
 
 **Power BI Dashboard:**
 
-**Dashboard Preview**
+**Dashboard Preview Images**
 
 <p align="center">
   <img src="Images/Dashboard.png" width="900"/>
