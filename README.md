@@ -40,7 +40,37 @@ They may need to rely more heavily on player development, scouting efficiency, a
 
 **Dashboard Preview**
 
-(insert screenshot of Power BI dashboard)
+<p align="center">
+  <img src="Images/Dashboard.png" width="1400"/>
+</p>
+<br>
+
+<p align="center">
+  <em><strong>Dashboard Preview</strong></em>
+</p>
+
+<br><br><br>
+
+<p align="center">
+  <img src="Images/Filter_by_Georgia.png" width="800"/>
+</p>
+<br>
+
+<p align="center">
+  <em><strong>Filter by Georgia to see various statistics such as which universities from Georgia produced the most MLB players and which MLB teams baseball players from Georgia went to the most. </strong></em>
+</p>
+
+<br><br><br>
+
+
+<p align="center">
+  <img src="Images/Filter_by_Atlanta_Braves.png" width="700"/>
+</p>
+<br>
+
+<p align="center">
+  <em><strong>Filter by Atlanta Braves to see various statistics such as which universities the Atlanta Braves recruited from the most and which states the Atlanta Braves recruited from the most.</strong></em>
+</p>
 
 **Key Dashboard Metrics**
 
