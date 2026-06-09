@@ -1,7 +1,7 @@
 UPDATE: organized the repo into folders and updated readme to be more organized and comprehensive
 
 **Project Summary:**  
-This project analyzes historical MLB data using advanced SQL techniques to uncover geographic, educational, and financial disparities across MLB, showing that player development is concentrated among a small group of states and universities while payroll investment remains heavily skewed toward select franchises. 
+This project analyzes historical MLB data using advanced SQL techniques to uncover geographic, educational, and financial disparities across MLB. Actionable business insights were created using this analysis. 
 
 
 ---
