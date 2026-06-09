@@ -7,10 +7,13 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 
 **Key Findings:**
 - MLB talent production is highly concentrated geographically
+
 A small number of states account for a disproportionately large share of MLB players, with California producing nearly twice as many professional players as the next highest state. This suggests that MLB talent development is concentrated in a limited number of regional pipelines rather than evenly distributed across the United States.
 - Universities are a great talent pipeline for the MLB
+
 Certain universities consistently outperform their peers in producing MLB players, demonstrating that collegiate programs can serve as reliable talent pipelines for professional baseball.
 - Historical payroll spending is by no means similar among all teams
+
 The New York Yankees have the highest spending by a considerable margin, with each team steadily decreasing in historical spending. The bottom 10 teams have considerably less spending than the top 10 teams.
 
 ---
