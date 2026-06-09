@@ -7,13 +7,13 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 ---
 
 **Key Findings:**
-- MLB talent production is highly concentrated geographically
+- **MLB talent production is highly concentrated geographically**
 
 A small number of states account for a disproportionately large share of MLB players, with California producing nearly twice as many professional players as the next highest state. This suggests that MLB talent development is concentrated in a limited number of regional pipelines rather than evenly distributed across the United States.
-- Universities are a great talent pipeline for the MLB
+- **Universities are a great talent pipeline for the MLB**
 
 Certain universities consistently outperform their peers in producing MLB players, demonstrating that collegiate programs can serve as reliable talent pipelines for professional baseball.
-- Historical payroll spending is by no means similar among all teams
+- **Historical payroll spending is by no means similar among all teams**
 
 The New York Yankees have the highest spending by a considerable margin, with each team steadily decreasing in historical spending. The bottom 10 teams have considerably less spending than the top 10 teams.
 
@@ -21,15 +21,15 @@ The New York Yankees have the highest spending by a considerable margin, with ea
 
 **Actionable Business Insights**
 
-- Focus scouting resources on proven talent producing regions
+- **Focus scouting resources on proven talent producing regions**
 
 California, Texas, and Florida produce substantially more MLB players than most states
 
-- Strengthen recruiting relationships with high performing universities
+- **Strengthen recruiting relationships with high performing universities**
 
 Universities with proven MLB pipelines may provide a more reliable source of professional talent
 
-- Franchises operating with smaller payrolls may need to rely on other things
+- **Franchises operating with smaller payrolls may need to rely on other things**
 
 They may need to rely more heavily on player development, scouting efficiency, and analytical decision making to remain competitive against historically high payroll teams
 
