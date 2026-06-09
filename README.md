@@ -72,6 +72,8 @@ They may need to rely more heavily on player development, scouting efficiency, a
   <em><strong>Filter by Atlanta Braves to see various statistics such as which universities the Atlanta Braves recruited from the most and which states the Atlanta Braves recruited from the most.</strong></em>
 </p>
 
+---
+
 **Key Dashboard Metrics**
 
 - 19,000 MLB players analyzed
