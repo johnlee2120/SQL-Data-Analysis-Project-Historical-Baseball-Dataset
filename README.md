@@ -41,7 +41,7 @@ They may need to rely more heavily on player development, scouting efficiency, a
 **Dashboard Preview**
 
 <p align="center">
-  <img src="Images/Dashboard.png" width="1400"/>
+  <img src="Images/Dashboard.png" width="400"/>
 </p>
 <br>
 
@@ -52,7 +52,7 @@ They may need to rely more heavily on player development, scouting efficiency, a
 <br><br><br>
 
 <p align="center">
-  <img src="Images/Filter_by_Georgia.png" width="800"/>
+  <img src="Images/Filter_by_Georgia.png" width="400"/>
 </p>
 <br>
 
@@ -64,7 +64,7 @@ They may need to rely more heavily on player development, scouting efficiency, a
 
 
 <p align="center">
-  <img src="Images/Filter_by_Atlanta_Braves.png" width="700"/>
+  <img src="Images/Filter_by_Atlanta_Braves.png" width="400"/>
 </p>
 <br>
 
