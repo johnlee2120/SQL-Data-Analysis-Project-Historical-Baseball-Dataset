@@ -11,6 +11,26 @@ This project analyzes historical MLB data using advanced SQL techniques to uncov
 - Measured career longevity and team retention patterns  
 - Ranked top performing schools and franchises using window functions  
 
+**Power BI Dashboard**
+
+Dashboard Preview
+
+(insert screenshot of your Power BI dashboard)
+
+Key Dashboard Metrics
+
+* 19,000 MLB players analyzed
+* 1,000 participating universities
+* 49 represented states
+* Interactive filtering by university state
+
+Dashboard Insights
+
+* Top MLB talent-producing states
+* Top MLB talent-producing universities
+* Highest historical payroll franchises
+* Dynamic filtering by university location
+
 ---
 
 **Techniques & Concepts:**  
