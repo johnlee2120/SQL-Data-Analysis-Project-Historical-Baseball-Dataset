@@ -1,4 +1,3 @@
-UPDATE: organized the repo into folders and updated readme to be more organized and comprehensive
 
 **Project Summary:**  
 
